@@ -51,7 +51,7 @@ const AddDetails = () => {
   
   return (
     <div className='container-sm'>
-    <h2 className='fs-3 fw-medium p-3 m-3 text-center font-monospace text-decoration-underline' style={{color:'#ffff'}}>Patient Online Appointment Database</h2>
+    <h2 className='fs-3 fw-medium p-3 m-3 text-center font-monospace text-decoration-underline' style={{color:'#ffff'}}>Patient Online Appointment</h2>
    <div className='container-sm border border-secondary p-3' id='form'>
    <form className='container-sm' >
    <div className="alert alert-warning alert-dismissible fade show" role="alert" style={show}>
